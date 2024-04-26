@@ -1,4 +1,5 @@
-.App {
+
+  .App {
   text-align: center;
 }
 
@@ -36,3 +37,95 @@
     transform: rotate(360deg);
   }
 }
+/* // Image: image;
+background: url("image.png");
+ */
+
+/* Group 472 */
+
+/* position: absolute;
+width: 541px;
+height: 1024px;
+left: 0px;
+top: 0px;
+ */
+
+
+/* Rectangle 179 */
+
+/* position: absolute;
+width: 541px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: url(image.png); */
+
+
+/* Group 471 */
+/* 
+position: absolute;
+width: 270px;
+height: 385px;
+left: calc(50% - 270px/2 - 449px);
+top: 236px;
+ */
+
+
+/* sicu-aura_logo-removebg 2 */
+
+/* position: absolute;
+width: 270px;
+height: 63px;
+left: calc(50% - 270px/2 - 449px);
+top: calc(50% - 63px/2 + 77.5px);
+
+background: url(sicu-aura_logo-removebg.png);
+ */
+
+/* sicu-aura_logo-removebg 3 */
+
+/* position: absolute;
+width: 270px;
+height: 322px;
+left: calc(50% - 270px/2 - 449px);
+top: calc(50% - 322px/2 - 115px);
+
+background: url(sicu-aura_logo-removebg.png);
+ */
+
+/* #Safe-T-Fast */
+
+/* position: absolute;
+width: 167px;
+height: 36px;
+left: calc(50% - 167px/2 - 449.5px);
+top: 753px; */
+
+/* font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+identical to box height
+
+color: #FFFFFF;
+ */
+
+
+/* Feel Safe Everywhere */
+
+/* position: absolute;
+width: 342px;
+height: 48px;
+left: calc(50% - 342px/2 - 449px);
+top: 675px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+identical to box height */
+
+

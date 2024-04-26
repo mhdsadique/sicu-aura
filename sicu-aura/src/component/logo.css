@@ -1,0 +1,29 @@
+
+.image{
+    width: 100%;
+    height:670px ;
+    background: url("https://s3-alpha-sig.figma.com/img/bac7/908d/5586b48e1c158f42af9fb4b0f5b1c3e2?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RRFFW54CzLtIFLm9uCBMRgP58Xa3qU2SNyIkLKB7fyAdVHRBTjY2jTepFuR6w-o4zhYLtsSSh-pcVkKXCrwgQlWzOGAi3zjjSYQHPiUoOxQn~LntxzZGy4exCI-PO7q7JtjCXfmP4YGCLlkA-mNlxOjSp9jd-6SCtCXeDP3tWUXv2~SkvJaUOY-drsWPk-3fBBIEEL7U1dJTpMcyEPpD7c6sT4rpGhIurslwB-jlqm76eXgKwQ58x5pzxfFPy3cSf5c2aZSbBl~AeHJUGmdhSMPQKUBBWOhNtWloQu8EQRvimSq2OInN8VSktkJ85qH8Uv4skukLqhZQoZ~~l2ZfGA__");
+  /* border: solid 1px rgb(61, 23, 176); */
+  background-repeat: no-repeat;
+  background-size: 100% 100% ;
+  }
+
+  .sigf1{
+display: flex;
+margin-top: 20px;
+  }
+
+  .logf1{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+    /* color: #BCBCBC; */
+    /* background: #BCBCBC; */
+    ;
+  }
+  .inpu{
+    width: 50%;
+    margin-top: 20px;
+  }
