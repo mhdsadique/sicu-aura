@@ -3,31 +3,6 @@ import React, { useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Webcam from 'react-webcam'
 
-// export const WebcamCapture = () => {
-//     const webcamRef = useRef(null);
-//     const capture = React.useCallback(() => {
-//         const imageSrc = webcamRef.current.getScreenshot();
-//         console.log(imageSrc)
-//         // You can now use the imageSrc for displaying the captured image or further processing
-//       }, [webcamRef]);
-
-//   return (
-//     <>
-//     <Webcam
-//     //   audio={false}
-//     //   ref={webcamRef}
-//     //   screenshotFormat="image/jpeg"
-//       // You can specify other video constraints here
-//     />
-//     <button onClick={capture}>Capture photo</button>
-//   </>
-//   )
-// }
-
-
-// import React, { useState } from 'react'
-// import Webcam from 'react-webcam'
-// const WebcamComponent = () => <Webcam />
 const videoConstraints = {
   width: 400,
   height: 400,

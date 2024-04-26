@@ -30,6 +30,15 @@ userRouter.post("/login",async(req,res)=>{
         res.send({msg:"Can not register Something went wrong",err:err.message})
     }
 })
+userRouter.get("/get",async(req,res)=>{
+    try{
+        const product=await UserModel.find()
+        res.send(product)
+
+    }catch(err){
+        res.send({msg:"Prtoduct can note Created",err:err.message})
+    }
+})
 module.exports={
     userRouter
 }
